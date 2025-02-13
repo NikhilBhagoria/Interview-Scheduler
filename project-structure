@@ -1,0 +1,22 @@
+interview-scheduler/
+├── src/
+│   ├── components/
+│   │   ├── Calendar/
+│   │   │   └── Calendar.js
+│   │   ├── InterviewForm/
+│   │   │   └── InterviewForm.js
+│   │   ├── Dashboard/
+│   │   │   └── Dashboard.js
+│   │   ├── Navbar/
+│   │   │   └── Navbar.js
+│   │   └── common/
+│   │       ├── Button.js
+│   │       └── Modal.js
+│   ├── store/
+│   │   ├── store.js
+│   │   └── interviewSlice.js
+│   ├── utils/
+│   │   └── helpers.js
+│   ├── styles/
+│   │   └── GlobalStyles.js
+│   └── App.js 
