@@ -24,35 +24,35 @@ A modern React application for managing and scheduling interviews with features 
 ### Installation
 
 1. Clone the repository:
-
-bash
+```bash
 git clone https://github.com/NikhilBhagoria/Interview-Scheduler.git
 cd interview-scheduler
+```
 
 2. Install dependencies:
-
-bash
+```bash
 npm install
 # or
 yarn install
+```
 
 3. Start the development server:
-
-bash
+```bash
 npm run dev
 # or
 yarn dev
+```
 
 The application will be available at `http://localhost:5173`
 
 ### Building for Production
 
 To create a production build:
-
-bash
+```bash
 npm run build
 # or
 yarn build
+```
 
 ## Design Decisions
 
