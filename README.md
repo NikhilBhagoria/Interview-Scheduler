@@ -2,6 +2,10 @@
 
 A modern React application for managing and scheduling interviews with features like calendar view, timezone support, and interview management.
 
+## Links
+- **Live Demo**: [Interview Scheduler](https://clinquant-donut-876ecc.netlify.app/)
+- **GitHub**: [Interview-Scheduler](https://github.com/NikhilBhagoria/Interview-Scheduler.git)
+
 ## Features
 
 - Interactive calendar view with month, week, day, and agenda views
@@ -22,7 +26,7 @@ A modern React application for managing and scheduling interviews with features 
 1. Clone the repository:
 
 bash
-git clone <repository-url>
+git clone https://github.com/NikhilBhagoria/Interview-Scheduler.git
 cd interview-scheduler
 
 2. Install dependencies:
